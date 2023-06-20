@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 
 **-->
 
-- 🔭 I’m a Postgraduate in Software Engineering
+- 🎓 I’m a Postgraduate in Software Engineering
 - 🩺 I'm a Co-Founder of Brookstreet Digital (HCA Marketing)
 - 🌱 I’m currently learning Augmented Reality and Hebrew
