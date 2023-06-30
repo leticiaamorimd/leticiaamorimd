@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 **-->
 
 - 🎓 I’m a Postgraduate in Software Engineering
-- 🩺 I'm a Co-Founder of Brookstreet Digital (HC Marketing)
+- 🩺 I'm the Head of Marketing of Brookstreet Digital (HC Marketing)
 - 🌱 I’m currently learning Augmented Reality and Hebrew
