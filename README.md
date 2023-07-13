@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 **-->
 
 - 🎓 I’m a Postgraduate in Software Engineering
-- 🩺 I'm the Head of Marketing of Brookstreet Digital (HC Marketing)
-- 🌱 I’m currently learning Augmented Reality and Hebrew
+- 🐙 I enjoy creating projects on Open Processing (https://openprocessing.org/user/274303/)
+- 🌱 I’m currently learning Augmented Reality and Hebrew on my freetime
